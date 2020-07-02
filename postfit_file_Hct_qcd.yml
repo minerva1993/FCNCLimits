@@ -42,3 +42,11 @@
   generated-events: 1
   group: Gother
   order: 4
+
+'qcd_postfit_histos.root':
+  type: mc
+  pretty-name: 'QCD'
+  cross-section: 1
+  generated-events: 1
+  group: Gqcd
+  order: 5
